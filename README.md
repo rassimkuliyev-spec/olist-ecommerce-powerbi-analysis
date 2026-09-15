@@ -21,6 +21,14 @@ The dashboard explores:
 - Customer review score distribution
 - Order and delivery performance
 
+  ## Business Insights
+
+- Sales are strongly concentrated in São Paulo (SP), making it the company's most important customer market.
+- Health & Beauty is the leading product category by sales, followed by Watches & Gifts and Bed, Bath & Table.
+- Most customers gave the highest review score of 5, indicating generally strong customer satisfaction.
+- The average delivery time is 12.5 days, making delivery performance an important area to monitor and optimize.
+- The sales trend shows significant growth over the analyzed period, with a noticeable sales spike around late 2017.
+
 ## Tools & Skills
 - Power BI
 - Power Query
